@@ -18,11 +18,11 @@ nqrgvkfoflfcuahkygqbcwwovgrsotvfjmccwegyojcujxjvys
 ```
 
 ### Flags available
-`-l` -> lowercase characters (a-z)
-`-u` -> uppercase characters (A-Z)
-`-d` -> digits (0-9)
-`-s` -> symbols (!\"#$%&\'()*+,-./:;<=>?@\[\\\]^_\`{|}~)
-`-e` -> extended ASCII
+- `-l` -> lowercase characters (a-z)
+- `-u` -> uppercase characters (A-Z)
+- `-d` -> digits (0-9)
+- `-s` -> symbols (!\"#$%&\'()*+,-./:;<=>?@\[\\\]^_\`{|}~)
+- `-e` -> extended ASCII
 
 ## Evaluate passwords (WIP)
 
